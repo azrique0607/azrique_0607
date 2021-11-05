@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 - 🖥️ &nbsp; Tech Enthusiasist.<br>
 - 🙋‍♂️ &nbsp; Always keen to upskill myself in technologies.<br>
-- 🎓 &nbsp; Purusing Computer Science and Engineering.<br>
+- 🎓 &nbsp; Pursuing Bachelor Degree In Computer Science and Engineering.<br>
  <h3> 💻 Currently learning </h3>
 - &nbsp; Cloud Computing 
   <h3>🛠 Tech Stack</h3>
