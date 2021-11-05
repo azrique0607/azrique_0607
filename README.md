@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
 - 🖥️ &nbsp; Tech Enthusiasist<br>
-- 🙋‍♂️ &nbsp; In love with Python<br>
+- 🙋‍♂️ &nbsp; In love with Cloud Computing<br>
 - 🎓 &nbsp; Purusing Computer Science and Engineering.<br>
  <h3> 💻 Currently learning </h3>
 - &nbsp; Artificial Intelligence 
