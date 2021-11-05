@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Azrique. </h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🖥️ &nbsp; Tech Enthusiasist<br>
-- 🙋‍♂️ &nbsp; In love with Cloud Computing<br>
+- 🖥️ &nbsp; Tech Enthusiasist.<br>
+- 🙋‍♂️ &nbsp; Always keen to upskill myself in technologies.<br>
 - 🎓 &nbsp; Purusing Computer Science and Engineering.<br>
  <h3> 💻 Currently learning </h3>
-- &nbsp; Artificial Intelligence 
+- &nbsp; Cloud Computing 
   <h3>🛠 Tech Stack</h3>
 - 🌐 &nbsp; HTML | CSS | Java | Python
 
